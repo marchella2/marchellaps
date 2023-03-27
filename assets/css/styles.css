@@ -477,11 +477,11 @@ img{
 }
 
 .skills__java{
-    width: 50%;
+    width: 70%;
 }
 
 .skills__spring{
-    width: 50%;
+    width: 70%;
 }
 
 .skills__mysql{
@@ -490,6 +490,14 @@ img{
 
 .skills__postgre{
     width: 60%;
+}
+
+.skills__javascript{
+    width: 65%;
+}
+
+.skills__grails{
+    width: 70%;
 }
 
 .skills__close .skills__list{
