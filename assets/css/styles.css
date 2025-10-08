@@ -389,10 +389,11 @@ img{
     margin-bottom: var(--mb-2-5);
 }
 
-.about__buttons{
-    display: flex;
-    justify-content: center;
+.about__buttons {
+  margin-left: 85px;
+  margin-top: 1rem;
 }
+
 
 /* Skills */
 .skills__container{
@@ -497,6 +498,14 @@ img{
 }
 
 .skills__grails{
+    width: 70%;
+}
+
+.skills__golang{
+    width: 70%;
+}
+
+.skills__fiber{
     width: 70%;
 }
 
